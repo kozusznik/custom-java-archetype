@@ -5,11 +5,11 @@
 
   <groupId>cz.kozusznik</groupId>
   <artifactId>custom-java-archetype</artifactId>
-  <version>0.1.0</version>
+  <version>0.1.1</version>
   <packaging>maven-archetype</packaging>
 
   <name>Custom Java Maven Archetype</name>
-  <description>Vlastni Maven archetype pro zakladni Java projekt.</description>
+  <description>Custom Maven archetype for a basic Java project.</description>
   <url>https://github.com/kozusznik/custom-java-archetype</url>
 
   <licenses>
